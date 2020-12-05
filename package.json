@@ -1,0 +1,24 @@
+{
+    "name": "@pierreminiggio/puppeteer-page-scroller",
+    "version": "1.0.0",
+    "description": "Puppeteer Page Scroller",
+    "main": "main.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pierreminiggio/puppeteer-page-scroller.git"
+    },
+    "author": "Pierre MINIGGIO",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pierreminiggio/puppeteer-page-scroller/issues"
+    },
+    "homepage": "https://github.com/pierreminiggio/puppeteer-page-scroller#readme",
+    "dependencies": {
+        "node": "^12.6.0",
+        "puppeteer": "^1.18.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
