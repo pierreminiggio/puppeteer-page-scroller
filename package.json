@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Puppeteer Page Scroller",
     "main": "main.js",
+    "type": "module",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/pierreminiggio/puppeteer-page-scroller.git"
